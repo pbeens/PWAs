@@ -14,6 +14,7 @@
 ## Progressive Web App Experiments
 
 1. [Hello World](Hello-World/README.md)
+2. [Hello World with Pyscript](Hello-World-Pyscript/README.md)
 
 ## About PWAs
 
