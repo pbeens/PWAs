@@ -1,4 +1,4 @@
-# Hello-World-Pyscript
+# Hello-World-PyScript
 
 ## Contents
 - [Introduction](#introduction)
